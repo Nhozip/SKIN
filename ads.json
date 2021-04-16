@@ -1,0 +1,74 @@
+{
+  "ads": {
+    "id_app": "id_app",
+    "flury_id":"flury_id",
+    "banner_setting": "ca-app-pub-5315325291235997/1399510641",
+    "inter_setting": "ca-app-pub-5315325291235997/5931999633",
+    "banner_main": "ca-app-pub-5315325291235997/6460265631",
+    "inter_main": "ca-app-pub-5315325291235997/1207938950",
+    "banner_setting_new": "",
+    "inter_setting_new": "",
+    "banner_main_new": "",
+    "inter_main_new": "",
+    "onlyAdmod": false,
+    "onlyFB": true,
+    "fb_banner": "3593952357393331_3593953657393201",
+    "fb_inter": "3593952357393331_3593954160726484",
+    "fb_banner_main":"3593952357393331_3593954770726423",
+    "fb_inter_main":"3593952357393331_3593955837392983",
+    "fb_native_banner":"",
+    "c_id":"",
+    "c_banner_setting":"Banner_Android",
+    "c_banner_main":"Banner_Android_Main",
+    "c_inter_main":"Inter_Android_Main",
+    "c_inter_setting":"Interstitial_Android"
+  },
+  "app_exists": {
+    "id": "com.gfx.gfxtool.gfxpro",
+    "is_exists": true,
+    "is_show_more": true,
+    "isLoading":false,
+    "isShowAds":true,
+    "onlyAdsMe":false,
+    "isShowInapp":"false",
+    "bg":"https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw"
+  },
+  "apps": [
+    {
+      "id":"com.tikfan.add.follow.fan.like.analysis.app",
+      "icon":"https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
+      "des":"Functional QR scanner and barcode reader that requires little storage",
+      "banner_250":"https://github.com/Nhozip/Nodejs/raw/master/banner_ads.png",
+      "banner_50":"https://github.com/Nhozip/Nodejs/raw/master/banner50.png",
+      "name":"QR & Barcode Scanner",
+      "inter":"https://play-lh.googleusercontent.com/8gaz8rbPJ7hCtl-kU1mQwm04-awVv5TDSJjEfmEKRDp1hipKn2nlRmLKEmSDib7uqCk=w1440-h620-rw",
+      "s1":"https://lh3.googleusercontent.com/ORfmbxIzj6w1CIY04CS58oTKsR_VGjQSjMdP637DTUzZ19fK_Y7g_Yiz6o2CKbOdYwl3=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+      {
+      "id":"volume.Booster.music",
+      "icon":"https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
+      "des":"Functional QR scanner and barcode reader that requires little storage",
+      "name":"QR & Barcode Scanner",
+       "inter":"https://play-lh.googleusercontent.com/gX3xP7EGROM7Iopck7dAgKLV_OelpGyB-aKUaE9XlrI5Ijyx9CkXeyJgtpnzV4A6PUA=w1440-h620-rw",
+      "banner_250":"https://github.com/Nhozip/Nodejs/raw/master/banner_ads.png",
+      "banner_50":"https://github.com/Nhozip/Nodejs/raw/master/banner50.png",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    },
+      {
+      "id":"com.gamma.scan",
+      "icon":"https://lh3.googleusercontent.com/nJcgTrETflv8liaA-3zrv7po7NyfKDMpMswbazxx6oWGnNAzT4D1mPniyX0nOrE-YnaV=s360-rw",
+      "des":"Functional QR scanner and barcode reader that requires little storage",
+      "name":"QR & Barcode Scanner",
+      "banner_250":"https://github.com/Nhozip/Nodejs/raw/master/banner_ads.png",
+      "banner_50":"https://github.com/Nhozip/Nodejs/raw/master/banner50.png",
+        "inter":"https://play-lh.googleusercontent.com/U1XUT_DYIoeLBKDayDaa80KquGwu6Sg6KzroUAfo-1A_B15bTHizWDZBDJNwPZjGCoMb=w1440-h620-rw",
+      "s1":"https://lh3.googleusercontent.com/sgqEXvq5E3nNo5yW_fl1Dd28BKURQQ092BN7lFEIwkiNZUkM5jT04BrESE67yIv_cQ=w1440-h620-rw",
+      "s2":"https://lh3.googleusercontent.com/WwuAY9C1UrY7b8MDv1GdElB1cSj8LzLlOOcVANmRwG2dsq5r2Yo7YiFcDnzOZJon1pQ=w1440-h620-rw",
+      "s3":"https://lh3.googleusercontent.com/VxEKVZFJBP7sJNxsAsCaBqHGKssL29o907PkSEBhvhc-2wiv4hLQX8_FK08wI5NiesQ=w1440-h620-rw"
+    }
+  ]
+}
