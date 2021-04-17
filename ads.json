@@ -25,7 +25,7 @@
   },
   "app_exists": {
     "id": "com.gfx.gfxtool.gfxpro",
-    "is_exists": false,
+    "is_exists": true,
     "is_show_more": true,
     "isLoading":false,
     "isShowAds":true,
