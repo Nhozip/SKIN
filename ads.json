@@ -24,8 +24,8 @@
     "c_inter_setting":"Interstitial_Android"
   },
   "app_exists": {
-    "id": "com.gfx.gfxtool.gfxpro",
-    "is_exists": true,
+    "id": "com.tz.sensipro.sensi.game.booster.dinamoff.free",
+    "is_exists": false,
     "is_show_more": true,
     "isLoading":false,
     "isShowAds":true,
