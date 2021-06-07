@@ -44,6 +44,12 @@
       "banner_250": "https://github.com/Nhozip/SKIN/raw/main/banner_250.png",
       "banner_50": ""
      
+    },
+     {
+      "id": "com.name.nickff.nicknameforgamers",
+      "banner_250": "https://raw.githubusercontent.com/Nhozip/SKIN/main/nick_250.png",
+      "banner_50": ""
+     
     }
   ]
 }
