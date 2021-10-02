@@ -24,8 +24,8 @@
     "c_inter_setting": "Interstitial_Android"
   },
   "app_exists": {
-    "id": "com.skin.free.freediamon.skintool.ffskintool.demote",
-    "is_exists": true,
+    "id": "com.skiltool2.skin.freeskintool.ffskintool",
+    "is_exists": false,
     "is_show_more": true,
     "isLoading": false,
     "isShowAds": true,
