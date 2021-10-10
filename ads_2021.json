@@ -25,7 +25,7 @@
   },
   "app_exists": {
     "id": "com.skiltool2.skin.freeskintool.ffskintool",
-    "is_exists": false,
+    "is_exists": true,
     "is_show_more": true,
     "isLoading": false,
     "isShowAds": true,
